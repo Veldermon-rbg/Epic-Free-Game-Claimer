@@ -13,4 +13,4 @@ To setup this project, you first need to download the files for it. To do so, yo
 
 
 Once you have the ZIP file, right click and extract all of the files into a directory of your choice. I recommend a memorable location, such as 'C:\EpicClaimer'. We will use this later.
-When the files finish extracting, double click on the created folder to enter it.
+When the files finish extracting, double click on the created folder to enter it. You should see various files, including `epic-games.js` and `run.bat`

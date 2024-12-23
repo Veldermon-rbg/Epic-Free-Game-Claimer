@@ -17,5 +17,8 @@ When the files finish extracting, double click on the created folder to enter it
 
 Click on the bar at the top of the window (not on the arrow)
 ![image](https://github.com/user-attachments/assets/bfe3ff25-fafb-4cf4-8095-d119ca936965)
+
+
 It should select some text. Delete it. Once the bar is empty, type `cmd`
-![image](https://github.com/user-attachments/assets/85541724-78d0-43db-939c-01f9c23a7484)
+
+![image](https://github.com/user-attachments/assets/f3bb0d26-2181-417c-aaeb-43784edefd79)

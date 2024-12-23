@@ -54,4 +54,4 @@ Repeat this with `EG_PASSWORD`, and your Epic Games account password.
 
 Select `OK` to close the window, then `OK` again to close the next window. Restart your computer to apply these changes.
 
-Once your computer is finished restarting, reopen your files (I used `C:\EpicClaimer`)
+Once your computer is finished restarting, reopen your folder, for example, `C:\EpicClaimer` from earlier.

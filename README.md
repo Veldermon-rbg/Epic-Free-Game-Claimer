@@ -40,7 +40,7 @@ After pressing enter, it might take a while to install the needed packages for t
 
 If you get a response like this, great. You don't have to do what it says, with `npm fund` and whatever, it's just not needed for this.
 
-At this point, the program is fully installed! There are just a few more things you have to do to get it running.
+At this point, the program is fully installed! Just a few more steps to set it up.
 The first one of these is to set up your login. Don't worry, I'm not going to steal your account.
 
 Press the windows key on your keyboard or click it on the taskbar. Select the search bar. Type `env`, and press enter.

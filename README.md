@@ -33,3 +33,11 @@ After pressing enter, it might take a while to install the needed packages for t
 ![image](https://github.com/user-attachments/assets/11813410-d4b9-4d4c-b369-b10d008d338c)
 
 If you get a response like this, great. You don't have to do what it says, with `npm fund` and whatever, it's just not needed for this.
+
+At this point, the program is fully installed! There are just a few more things you have to do to get it running.
+The first one of these is to set up your login. Don't worry, I'm not going to steal your account.
+
+Press the windows key on your keyboard or click it on the taskbar. Select the search bar. Type `env`, and press enter.
+Select `Environment Variables`.
+
+![image](https://github.com/user-attachments/assets/fa5afc59-d040-4dbf-99a2-54e290bcebce)

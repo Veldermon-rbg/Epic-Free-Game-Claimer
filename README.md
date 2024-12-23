@@ -62,7 +62,8 @@ Select `OK` to close the window, then `OK` again to close the next window. Resta
 
 Once your computer is finished restarting, reopen your folder, for example, `C:\EpicClaimer` from earlier.
 
-Double-click the `run.bat` file. If it doesn't run, try the previous steps. Sometimes when signing in, it needs a little encouragement. Click on the password box and enter any letter. If it gets stuck, close and reopen `run.bat`.
+Double-click the `run.bat` file. If it doesn’t run, try re-running after completing the previous steps.  
+Sometimes when signing in, it needs a little encouragement. Click on the password box and enter any letter. If it gets stuck, close and reopen `run.bat`.
 
 
 

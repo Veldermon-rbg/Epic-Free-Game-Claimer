@@ -43,3 +43,6 @@ Select `Environment Variables...`.
 ![image](https://github.com/user-attachments/assets/fa5afc59-d040-4dbf-99a2-54e290bcebce)
 
 In the `System Variables` section at the bottom, select `New`, and type `EG_EMAIL` in the `Variable Name` box, and type your Epic Games account email in the `Variable Value` box.
+
+![image](https://github.com/user-attachments/assets/16baca68-043c-45ea-93d5-1922f400cc33)
+

@@ -24,6 +24,6 @@ It should select some text. Delete it. Once the bar is empty, type `cmd`, and pr
 
 ![image](https://github.com/user-attachments/assets/f3bb0d26-2181-417c-aaeb-43784edefd79)
 
-It should open a window similar to that shown here. Type `npm install` in it.
+It should open a window similar to that shown here. Type `npm install` in it, and press enter.
 
 ![image](https://github.com/user-attachments/assets/bfc060b9-dbbc-4572-b258-a15506ce8054)

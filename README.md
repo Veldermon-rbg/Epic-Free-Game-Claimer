@@ -46,7 +46,7 @@ In the `System Variables` section at the bottom, select `New`, and type `EG_EMAI
 
 ![image](https://github.com/user-attachments/assets/16baca68-043c-45ea-93d5-1922f400cc33)
 
-Repeat this with `EG_PASSWORD`, and your Epic Games account password. 
+Repeat this with `EG_PASSWORD`, and your Epic Games account password. Repeat this again with `SHOW`, and a value of `1`.
 
 (If you have an Epic Games Store parental pin, you can set this with `EG_PARENTALPIN`)
 

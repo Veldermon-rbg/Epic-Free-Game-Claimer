@@ -1,4 +1,5 @@
-# Epic-Free-Game-Claimer
+# Epic Games Free Game Claimer  
+
 A tool to automatically claim the Epic Games free game for the week.
 
 

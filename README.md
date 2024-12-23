@@ -63,4 +63,4 @@ Double-click the `run.bat` file. If it doesn't run, try the previous steps. Some
 
 # Running on Startup
 
-To make this script run on startup, right click the `run.bat`, select `Show More Options`, then `Create Shortcut`.
+To make this script run on startup, right click the `run.bat`, select `Show More Options`, then `Create Shortcut`. Right click the `run.bat - Shortcut` file, and select `Copy` (Ctrl-C)

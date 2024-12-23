@@ -27,3 +27,7 @@ It should select some text. Delete it. Once the bar is empty, type `cmd`, and pr
 It should open a window similar to that shown here. Type `npm install` in it, and press enter.
 
 ![image](https://github.com/user-attachments/assets/bfc060b9-dbbc-4572-b258-a15506ce8054)
+
+After pressing enter, it might take a while to install the needed packages for this program. This step might look different for you, so just make sure everything loaded correctly.
+
+![image](https://github.com/user-attachments/assets/11813410-d4b9-4d4c-b369-b10d008d338c)

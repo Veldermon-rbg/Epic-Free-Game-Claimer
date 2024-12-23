@@ -15,5 +15,7 @@ To setup this project, you first need to download the files for it. To do so, yo
 Once you have the ZIP file, right click and extract all of the files into a directory of your choice. I recommend a memorable location, such as `C:\EpicClaimer`. We will use this later.
 When the files finish extracting, double click on the created folder to enter it. You should see various files, including `epic-games.js` and `run.bat`.
 
-Click on the bar at the top of the window
+Click on the bar at the top of the window (not on the arrow)
 ![image](https://github.com/user-attachments/assets/bfe3ff25-fafb-4cf4-8095-d119ca936965)
+It should select some text. Delete it. Once the bar is empty, type `cmd`
+![image](https://github.com/user-attachments/assets/85541724-78d0-43db-939c-01f9c23a7484)

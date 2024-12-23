@@ -5,6 +5,11 @@ A tool to automatically claim the Epic Games free game for the week.
 
 
 # Setup
+Download [Node.JS](nodejs.org) before anything else. 
+
+![image](https://github.com/user-attachments/assets/5446c793-480c-44fa-8e8a-ab2ab3c6f716)
+
+
 To setup this project, you first need to download the files for it. To do so, you have 2 options.
 
 1) Click the big green "Code" button and select "Download ZIP" in the dropdown.

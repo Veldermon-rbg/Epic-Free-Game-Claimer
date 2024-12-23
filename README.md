@@ -53,3 +53,5 @@ Repeat this with `EG_PASSWORD`, and your Epic Games account password.
 ![image](https://github.com/user-attachments/assets/9cb1ed22-45fd-4783-8a1a-56ac21008985)
 
 Select `OK` to close the window, then `OK` again to close the next window. Restart your computer to apply these changes.
+
+Once your computer is finished restarting, reopen your files (I used `C:\EpicClaimer`)

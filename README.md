@@ -31,3 +31,5 @@ It should open a window similar to that shown here. Type `npm install` in it, an
 After pressing enter, it might take a while to install the needed packages for this program. This step might look different for you, so just make sure everything loaded correctly.
 
 ![image](https://github.com/user-attachments/assets/11813410-d4b9-4d4c-b369-b10d008d338c)
+
+If you get a response like this, great. You don't have to do what it says, with `npm fund` and whatever, it's just not needed for this.

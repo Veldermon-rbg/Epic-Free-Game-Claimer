@@ -38,6 +38,6 @@ At this point, the program is fully installed! There are just a few more things 
 The first one of these is to set up your login. Don't worry, I'm not going to steal your account.
 
 Press the windows key on your keyboard or click it on the taskbar. Select the search bar. Type `env`, and press enter.
-Select `Environment Variables`.
+Select `Environment Variables...`.
 
 ![image](https://github.com/user-attachments/assets/fa5afc59-d040-4dbf-99a2-54e290bcebce)
